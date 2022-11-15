@@ -1,0 +1,121 @@
+
+
+/*  
+  .card-block1 {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card1 {
+  background-color: black;
+  height: 1251px;
+  margin: -6%;
+ 
+}
+
+.carousel-indicators1 li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators1 li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: #404040;
+}
+.carousel-indicators1 .active {
+    background-color: white;
+    max-width: 12px;
+    margin: 0 3px;
+    height: 12px;
+}
+.carousel-control-prev-icon1 {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon1 {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+  
+
+.btn1 {
+  margin-top: auto;
+}
+.d-block1{  width: 100%;
+  margin: 2px;
+  height: 390px;
+  margin-bottom: 32px;
+  margin-top: 7%;
+}
+
+h2{
+  color: white;
+  margin-left: 15px;
+}
+.displayimg{
+  float:left; 
+  width:23%;
+  height:388px;
+}
+.gener{
+  color: white;
+}
+.dataviewmore{
+  
+  float:left; 
+  width:38%;
+}
+.feedbackform{
+margin-top: 300px;;
+margin-left: 150px;
+background-color:#303030;
+margin-right: 163px;
+padding: 29px;
+margin-bottom: 10px;
+}
+.star{
+margin-left: 10px;
+margin-top: 16px;
+}
+.inputbox{
+background-color: #181818
+}
+.inputbox{
+  width: 90%;
+}
+.line{
+  width: 80%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 35%;
+  float: left;
+  margin: 20px;
+}
+.reviewfeed{
+  width: 90%;
+}
+.titlereview{
+  margin-left: -66%;
+}
+.containerreview{table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+  margin-left: 39%;
+}
+.user{
+  margin-left: 18px;
+}
+*/

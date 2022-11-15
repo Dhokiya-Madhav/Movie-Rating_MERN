@@ -1,0 +1,146 @@
+.navbar{
+    margin-top: -80px;
+    background-color: black;
+    border-radius: 10px;
+    width: 100%;
+}
+body {
+    background-color: #DBF9FC;
+    }
+.navbar ul{
+    overflow: auto;
+}
+.margincard{
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.webseries{
+    margin-top: 2px;
+}
+.bollywood{margin-top: 2px;}
+.hollywood{margin-top: 2px;}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+  float: left;
+  margin: 20px;
+}
+h2,h4{
+    color: white;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+hr{
+    height:2px;border-width:0;color:gray;background-color:gray;margin-top: 10px;width: 100%;
+}
+
+/* .container {
+  padding: 2px 16px;
+} */
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.images-container {
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+  }
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+img {
+    height: 100%;
+  }
+.group1 {
+    max-width: 250vw;
+    height: 329px;
+    display: flex;
+  }
+.navbar li a:hover{
+    color: red
+}
+.search{
+    float: right;
+    color: white;
+    padding: 12px 75px;
+}
+.navbar input{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 129px;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none; 
+    
+  }
+  .nav-link.b:hover{
+    color: #7bdf1d;
+  }
+
+
+
+    #stop-scrolling {
+        height: 100% !important;
+        overflow: hidden !important;
+        }
+
+
+
+
+  .images-container {
+    width: 100%;
+    height: 3040px;
+    background-color: #000;
+  }
+  
+  .group1 {
+    max-width: 250vw;
+    height: 329px;
+    display: flex;
+  }
+
+  .group1 .image {
+    width: 250px;
+    height: 100%;
+  }
+ 
+  img {
+    width: 288px;
+    height: 388px;
+  }
+
+  .si{
+    height: 35px;
+  }
+  .sb{
+    height: 35px;
+    width: 185px;
+  }
+.topnav{
+  flex-direction: column;
+  width: 251px;
+  height: 30px;
+  margin-left: 1250px;
+}
+
+input[type="submit"] {
+  margin-bottom: 10px;
+  width: 185px;
+}
+h2 {
+  color: white;
+  margin-left: 15px;
+}

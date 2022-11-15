@@ -1,0 +1,129 @@
+    /* navbar css */
+    #header-nav .nav-link {
+        color: white;
+        font-size: 20px;
+        margin-left: 20px;
+  
+      }
+  
+      .menu li a {
+        text-decoration: none;
+      }
+      .nav-item :hover{
+    margin-bottom: 10px;
+    /* background-color: aquamarine; */
+    border-bottom: 3px;
+    border-color: red;
+    border-bottom-style: solid;
+  }
+      .menu li a:hover {
+        color: red !important;
+        opacity: 0.5;
+      }
+  
+      #variety {
+        margin: 0.5rem;
+      }
+  
+      .btn-outline-danger,
+      .btn-outline-danger:focus {
+        outline: none;
+        box-shadow: none;
+      }
+  
+      .contactForm {
+        margin: 5px;
+      }
+  
+      /* <!------------------------Scroll to top button------------------------------------------------> */
+  
+      #scrollToTopButton {
+        position: fixed;
+        bottom: 40px;
+        right: 25px;
+        font-size: 25px;
+        z-index: 99;
+        width: 50px;
+        height: 50px;
+        background-color: red;
+        color: black;
+        border: none;
+        cursor: pointer;
+        outline: none;
+        padding: 6px;
+        border-radius: 50%;
+      }
+  
+      #scrollToTopButton:hover,
+      i:hover {
+        background-color: white;
+        color: red;
+      }
+  
+      .btn-sm a {
+        color: white;
+        transition: all 0.3s ease;
+        float: right;
+        font-size: medium;
+      }
+  
+      .btn-sm a:hover {
+        color: red;
+        transition: all 0.3s ease;
+      }
+  
+      #nav:hover {
+        background-color: #e60e23 !important;
+  
+      }
+      #header-nav .nav-link {
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+  }
+      @media only screen and (max-width: 1400px){
+    #header-nav .nav-link {
+      color: white;
+      font-size: 18px;
+      margin-left: 18px;
+    }
+  }
+  
+  @media only screen and (min-width: 1133px) and (max-width: 1275px) {
+    #header-nav .nav-link {
+      color: white;
+      font-size: 15px;
+      margin-left: 10px;
+    } 
+  }
+  @media only screen and (min-width: 1035px) and (max-width: 1132px) {
+    #header-nav .nav-link {
+      color: white;
+      font-size: 15px;
+      margin-left: 10px;
+    } 
+    #searchText{
+      width: 120px;
+    }
+    #submitBtn{
+      width: 60px;
+      display: flex;
+      justify-content: center;
+    }
+  }
+  @media only screen and (min-width: 993px) and (max-width: 1034px) {
+    #header-nav .nav-link {
+      color: white;
+      font-size: 14px;
+      margin-left: 10px;
+    } 
+  
+  #searchText{
+    width: 100px;
+  }
+  #submitBtn{
+    width: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  }
